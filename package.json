@@ -1,0 +1,26 @@
+{
+  "name": "named-logs-for-servers",
+  "version": "0.0.1",
+  "description": "minimal logging facet for libraries forked for servers",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/index.d.ts",
+  "files": [
+    "dist/"
+  ],
+  "keywords": [
+    "console",
+    "logger",
+    "logging",
+    "logging facade",
+    "microscopically small",
+    "tiny",
+    "1kB"
+  ],
+  "author": "Ronan Sandford",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:wighawag/named-logs-for-servers.git"
+  }
+}
